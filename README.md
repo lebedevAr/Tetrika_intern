@@ -10,3 +10,11 @@
 [Задача 1](task1/task1.md)   
 [Задача 2](task2/task2.md)  
 [Задача 3](task3/task3.md)
+
+# Решение
+### Для запуска необходимо:
+```
+python -m venv venv
+venv/Scripts/activate
+pip install -r requirements.txt
+```
